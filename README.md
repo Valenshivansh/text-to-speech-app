@@ -10,3 +10,4 @@ Built With
 	•	Java
 	•	Kotlin
 	•	Android TextToSpeech API
+this is the very basic version later i will use similar code to make a speech to text & speech command to assistant answer .
