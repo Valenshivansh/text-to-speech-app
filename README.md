@@ -5,6 +5,7 @@ Features
 	•	Support for english language and accents
 	•	Lightweight and responsive design
 
+
 Built With
 	•	Android Studio
 	•	Java
